@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Dylan Black
 
-Fourth-year Bachelor of Mechanical and Mechatronic Engineering student at the University of Technology Sydney, with project experience in robotics, autonomous systems, computer vision, simulation, MATLAB signal analysis, and industrial engineering improvement.
+Hello! I am Dylan Black, a Fourth-year Bachelor of Mechanical and Mechatronic Engineering student at the University of Technology Sydney, with project experience in robotics, autonomous systems, computer vision, simulation, MATLAB signal analysis, and industrial engineering improvement experience.
 
 I am interested in engineering roles involving robotics, space systems, simulation, software, automation, control systems, and applied problem solving.
 

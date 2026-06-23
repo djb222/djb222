@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **djb222/djb222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Dylan Black
+# GitHub Portfolio
 
 Hello! I am Dylan Black, a Fourth-year Bachelor of Mechanical and Mechatronic Engineering student at the University of Technology Sydney, with project experience in robotics, autonomous systems, computer vision, simulation, MATLAB signal analysis, and industrial engineering improvement experience.
 

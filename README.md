@@ -21,7 +21,7 @@ I am interested in engineering roles involving robotics, space systems, simulati
 
 ## Featured Projects
 
-### Autonomous Drone Goal Detection — YOLO + PyBullet + Reinforcement Learning
+### [Autonomous Drone Goal Detection — YOLO + PyBullet + Reinforcement Learning](https://github.com/djb222/autonomous-drone-yolo-rl)
 Python-based drone simulation project integrating YOLO object detection with autonomous navigation and reinforcement learning control.
 
 **My contribution:**

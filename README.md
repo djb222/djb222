@@ -34,7 +34,7 @@ Python-based drone simulation project integrating YOLO object detection with aut
 
 ---
 
-### ROS2 Fire-Risk Surveyor — UAV/UGV Perception Pipeline
+### [ROS2 Fire-Risk Surveyor — UAV/UGV Perception Pipeline](https://github.com/djb222/autonomous-fire-risk-surveyor-ros2)
 Robotics Studio project involving an autonomous fire-risk surveyor using UAV perception and UGV response coordination.
 
 **My contribution:**

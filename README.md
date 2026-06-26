@@ -46,7 +46,7 @@ Robotics Studio project involving an autonomous fire-risk surveyor using UAV per
 
 ---
 
-### Vibration Phase Angle Analysis — MATLAB Signal Processing
+### [Vibration Phase Angle Analysis — MATLAB Signal Processing](https://github.com/djb222/vibration-phase-analysis-matlab)
 Dynamic systems project analysing phase response of a single-degree-of-freedom vibration rig using experimental oscilloscope data.
 
 **My contribution:**

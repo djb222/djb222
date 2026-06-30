@@ -59,7 +59,7 @@ Dynamic systems project analysing phase response of a single-degree-of-freedom v
 
 ---
 
-### Industrial Robotics Kitchen Simulation
+### [Industrial Robotics GP7 and Safety Simulation](https://github.com/djb222/industrial-robotics-gp7-safety-simulation)
 Industrial robotics project involving simulated robotic manipulators completing kitchen-based automation tasks.
 
 **My contribution:**

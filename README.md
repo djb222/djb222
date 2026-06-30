@@ -60,14 +60,17 @@ Dynamic systems project analysing phase response of a single-degree-of-freedom v
 ---
 
 ### [Industrial Robotics GP7 and Safety Simulation](https://github.com/djb222/industrial-robotics-gp7-safety-simulation)
-Industrial robotics project involving simulated robotic manipulators completing kitchen-based automation tasks.
+
+Industrial robotics simulation involving Motoman GP7 integration, multi-robot kitchen automation, collision checking, E-stop logic, safety fencing, and a simulated light curtain.
 
 **My contribution:**
-- Worked with robot modelling and task-space motion.
-- Contributed to trajectory planning and simulation logic.
-- Assisted with safety and control considerations.
+- Created and integrated the Motoman GP7 robot model into the wider simulation.
+- Developed GP7 pick-and-stir task logic using inverse kinematics, joint trajectories, and RMRC-style motion.
+- Implemented safety-system logic including E-stop gating, reset/resume behaviour, and motion blocking.
+- Built a simulated light curtain that detects robot links entering a protected zone.
+- Added collision-checking and compact safety fence/barrier logic.
 
-**Technologies:** Python, robotics simulation, trajectory planning, robot kinematics.
+**Technologies:** Python, Robotics Toolbox, Swift, SpatialMath, DH modelling, inverse kinematics, collision checking, safety systems.
 
 ## Technical Skills
 
